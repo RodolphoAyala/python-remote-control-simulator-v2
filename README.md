@@ -27,7 +27,7 @@ This project is the second version of my Remote Control Simulator, focused on da
 
 ## Project Structure
 
-python-radio-simulator-sql/
+python-remote-control-simulator-v2/
 ├── database.py
 ├── main.py
 ├── remote_control.py
